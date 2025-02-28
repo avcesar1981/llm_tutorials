@@ -1,0 +1,281 @@
+Will AI take jobs or make jobs?
+Here's the short answer a definitive, Yes.
+Now, let's dig into that a little bit deeper and see what I mean when I say that.
+Well, let's take a look at historically
+what has happened with humans over time and what technology has done for our work lives.
+So there was a time when, in fact, most of us had to work in the fields, in agriculture, in order to feed all of us.
+Then we had some tooling, some mechanization
+that came along in the form of tractors and other types of farm implements that made it more productive.
+That way we didn't have to have everyone on the planet working in the fields.
+Some people worked in agriculture, but other people were then able to do other things.
+So it took away some of those agriculture jobs, but it also added some others.
+The agriculture jobs stayed.
+We still have to have food.
+I still like to eat.
+So we need that kind of stuff.
+But it also freed us up to do some other things.
+Well, then we had factories and industrialization.
+And what happened there?
+Well, we a lot of people moved from fields into factories.
+Then we had automation, which then freed up people to do more things.
+Again, an elimination with a creation.
+What did it create?
+It created jobs in the IT sector, in the information age where information is king.
+And this is the kind of thing then that also improved quality
+of life for a lot of people that were able to transition into those kinds of jobs.
+And then finally, where we are right now is moving into this era of artificial intelligence.
+What will AI do?
+Well, we can just look historically and see each one of these advances that we have had
+have eliminated certain types of jobs while creating yet other types of jobs.
+So, for instance, when Edison invented the light bulb,
+well, we didn't need nearly as many candle makers as we had had in the past.
+What did that do?
+Did they all just stop working?
+No, they moved into other areas and other areas so that we don't have to spend all of our time making candles.
+Now we can do even more interesting kinds of things.
+And another thing it did, it improved our quality of life overall.
+We were able to work and live through the night
+through all types of conditions because of electricity, because of light bulbs and things like that.
+So each one of these advances historically has taken away certain things, but it's also given others.
+Let's take a look at a cybersecurity perspective on what AI is going to do for jobs in this space.
+Okay, let's take a look at what are the implications of artificial intelligence on cybersecurity.
+Good news and bad news, pros and cons.
+Let's start with the pros first.
+How is AI going to help us do better cybersecurity?
+Well, one of the things it's going to do for us is help us to automate
+some of these repetitive tasks that we have to do today.
+So I can figure out how to do that and automate it, do it again and again and again.
+What are some examples of that?
+Well, how about code reviews?
+If we want to have it, inspect our code and see where there might be vulnerabilities or bugs.
+Another thing it could help automate would be pen testing, penetration testing.
+Have it try to break into our systems or figure out some of those scenarios.
+So those are a couple of things it could do for us.
+Another thing that would be particularly useful is case summarization.
+When we've got a case that we've been working on, let's say for a couple of weeks,
+and we've gathered a lot of notes and a lot of different people have been working on this particular incident.
+Then if the boss comes in and says, I want to know where do we stand on that?
+It might take us a few hours to put together an executive summary,
+but generative AI is really good at doing summarization.
+Give it a lot of information and it will give you that summary.
+So case summarization could be a big timesaver in some of these cases.
+How about threat hunting?
+In threat hunting we are going to basically go out and come up with a hypothesis.
+I'm going to surmise that maybe someone has broken into my system and
+if they have, this is what they would go after and if they had done that,
+these are the indicators of compromise, the things that I would see as clues that they had done that.
+Well, generative AI is very creative.
+It might come up with some ideas that we could go do threat hunts on that I wouldn't have come up with on my own,
+and we can keep feeding it more information about attacks that are happening out there,
+and it can use its imagination, as it were, to come up with other scenarios that we could look for.
+So that could be useful.
+How about interpreting complex logs?
+If I see maybe a really complex command in a log, let's say a SQL command that I don't know the syntax for.
+Well, you know, SQL, structured query language.
+Well, large language models.
+So these things, these generative AI systems understand languages, they would understand SQL.
+It could tell me that command when executed, would have done the following.
+I don't have to go look up the command and parse it all out and figure that myself.
+That would be a command line explainer of a sort.
+It could also help us with anomaly detection.
+In other words, looking for the weird kinds of situations that might occur out there and look for the outliers.
+So think of this almost as a bell curve, and normal users log in to a system.
+They do some stuff, then they log off.
+That's the stuff here in the middle.
+But that's not what we're concerned with in cybersecurity.
+We want to know about these outlier cases.
+We want to know about the guy that logged into the system,
+elevated his privileges, did a bunch of stuff, erase the log records, and then de-escalated his privileges.
+That's an outlier.
+That's one that we want to look at.
+So it would be really good.
+AI and specifically machine learning is particularly good at finding those kinds of things.
+How about recommending actions, telling us what it thinks
+we should do to correct a particular scenario, what are the mitigations that we should put in place?
+Whatever remediations we could have put in place, It may not be right every time,
+but it's going to suggest some things that maybe we hadn't thought of.
+And therefore, we can go through that and figure out which one of those things do we want to do and which ones not.
+How about if we had basically a cyber SME?
+Somebody who understands the language of cybersecurity, understands the technology,
+maybe that has the intelligence of someone who's passed the certifications like the CISSP for cybersecurity professionals,
+that I could at any point in time just start asking it questions that would be really useful,
+and that's something that a chat bot is particularly good at.
+So those are just a few.
+Here's a really interesting use case, I think.
+Imagine that all all the time we're getting just bombarded with reports, with advisories.
+These things come out all the time.
+Every day I see another 4 or 5 advisories that come out.
+And if I was a chief information security officer, I don't really want to read all of those.
+I just want to know, am I affected?
+How about using AI to answer that question?
+How about we feed all of these things into a generative AI, which then is able to pull out,
+What are the key findings from those reports?
+Then it tells me what are the indicators of compromise that associate with those things.
+Then it just runs a federated search out into my environment,
+into all of the corners and crevices of my environment,
+and comes back and tells me the answer to the question, Am I affected?
+Do we see those indicators were compromised?
+Remember, this was really simple.
+I take all this tons and tons of data and all I get back out from all of this is just, am I affected?
+That would be really great.
+But notice one of the things that's still needed in all of this is I still need a human in the loop.
+None of these things, even though we're automating some of this, it's still we need someone to ask the right question.
+We need someone to to run the threat hunt.
+We need someone to try to use their creative skills to come up
+with a lot of these things and sort out the things that are not particularly useful from all of this.
+So it's automating some things,
+but it's also creating the opportunity for humans to focus on different parts of the problem.
+And why are we going to need that?
+Well, that's on the con side here.
+We, because of AI, the bad guys are paying attention to this stuff as well, and they are not sitting still.
+They know that something they could do is we're talking about automating the recovery and some other types of scanning.
+Where are they going to automate?
+Well, they might automate reconnaissance that is looking into systems and trying to figure out where vulnerabilities exist.
+They could automate other types of vulnerability scanning.
+So their own version, we're talking about doing pen testing,
+they're talking about doing vulnerability scanning, not so much difference.
+They could also automate some of their attacks.
+That is, if it knows what kinds of things need to be done to take advantage of a system.
+Then they could just put that in an AI and have it automate all of those processes
+and smartly look at the results that come back from that and figure out what are the next steps it needs to do.
+That's a lot smarter than just writing a script because here it's able to make adjustments.
+How about in the area of social engineering?
+This is where we basically try to fool people.
+We take advantage and basically impose on humans desire to trust each other.
+We do this all the time and we need to be able to do it to operate in societies,
+but social engineering, the people that are taking advantage of those attacks are doing things like phishing.
+They send out an email that makes you think it's coming from your bank or you want a contest or something like that.
+You log in.
+They steal your identity or they implant malware on your system or something like that.
+Those kinds of attacks can be better automated with AI.
+One of the things that we have been teaching people about phishing attacks as a clue, that we now need to un-teach them,
+is that phishing attacks often have bad grammar or bad spelling and things like that.
+If the attacker doesn't know a word of English but knows how to use a AI,
+they can use a generative AI to generate a phishing email that will be in perfect English.
+So if people are looking for those as clues, we they will not be thinking this is a phishing email.
+They were to lower their defenses against this and not be as skeptical.
+We need to override that.
+How about deepfakes?
+This is where we use generative AI to generate
+an imitation of a person their voice, their likeness, their image and their motions, video calls.
+We've already seen a number of cases where companies have lost millions of dollars in Deepfake based attacks.
+That's another example of where AI will be used against us.
+How about disinformation attacks, where we're going to confuse people.
+We're not so great at figuring out what's fake news and what's real news.
+Disinformation leveraged by AI,
+leveraging deepfakes is going to be a really hard combination to overcome, in a lot of these situations.
+Password cracking.
+So in this case, a lot of times we have used a system
+to go through and do a dictionary attack where
+it takes certain words and runs those against a password database to see if it matches any of those things.
+I won't go into the details of how that works, but if you had a smart password generator,
+something that has read what passwords people use because
+there are dumps out on the internet of password databases that have been exposed.
+So we can look and see what kinds of passwords do people normally do?
+What kinds of patterns do they use?
+And it could generate really smart guesses,
+not necessarily just the things that are in the password dictionary,
+but smart, intelligent guesses that are more likely to be able to to be correct than in other cases.
+How about exploit generation?
+In this case, we could feed indicators of compromise into a generative AI and have it write code.
+That's one of the things these things can do is they can generate code.
+They can generate good code or bad code, and we could have it generate exploit code.
+So now the attacker doesn't even have to know how to write code.
+They could just get a description of a vulnerability, feed it into a chat bot and have it generate the the exploit code.
+Same with malware.
+They don't have to know how to write viruses and things of that sort.
+They could have the chat bot take care of that for them.
+And then ultimately AI, which companies are going to be using to do good things, is effectively a new attack surface.
+That is, it's another way that people are going to try to break into systems.
+They're going to break it in through the AI.
+So if I look at all of this, what is this summarized down to?
+Well, we're going to see more attacks, as you can see, because these things are easier to do.
+We're going to therefore need better defenses.
+In order to guard against these attacks.
+That means we're going to need also more,
+and here we go,
+SMEs, subject matter experts, people who really understand cybersecurity to help increase those defenses,
+and in fact, we've already seen that right now,
+at the time of I'm recording this, there are more than 400,000 open cybersecurity jobs in the US alone.
+That's not looking at the worldwide number.
+So that means if we're asking the question, is AI going to take away some jobs?
+Yes.
+Some of this stuff that was really not very much fun to do in the first place is going to go away or will assist with us.
+We're still going to need the human in the loop, though, to figure out how to defend against
+this now increasing attack space that's happening as a result of that AI.
+Okay, let's summarize who's going to be doing what.
+The AI is going to do certain things that humans are going to do certain other things.
+Let's use each one of them to their strengths.
+So, for instance, I might be pretty good at this business of threat detection.
+So it could be looking for all kinds of things, analyzing logs and things of that sort.
+So let's let it do that sort of work. How about log analysis.
+Again, looking at explaining what is in the log and what those commands would do,
+it's going to be better than people for the most part at that, and then doing vulnerability assessments and vulnerability analysis.
+It's going to be particularly good at those kind of things,
+but we still need people.
+Why?
+Well, because people are particularly good at this kind of stuff, at strategy.
+At planning, at things like figuring out what it is that we need to be doing in the first place.
+This is going to do what we ask it to do.
+But does it know what needs to be done?
+What are the goals in the first place?
+How about problem solving?
+Well, in some cases it seems like AI is able to do
+problem solutions for us, but it looks like it's reasoning and doing thought,
+in fact, what it's doing is something different that looks close to that,
+but people are still probably better at doing some of these kind of problem
+solving, especially if it's new stuff that we've never seen before.
+What we in security often refer to is black swan events, things that we don't see very often.
+And then decision making.
+So I've got something to do here.
+I've got to make a decision.
+Which one should I do?
+Well, it turns out people are going to have a better understanding of what the organization is trying to do,
+and what would be the optimal outcome from a lot of these things.
+Bottom line, I listed off a whole bunch of things on the previous portion of the video that humans will still need to be needed for.
+We still need humans in the loop on this.
+So another way to look at it is we're going to basically need less of of people doing investigations and things of that sort.
+Maybe just doing the hard work of figuring out what's out there, who's done what to whom.
+That sort of thing, doing those manual steps of doing an investigation.
+And another thing we probably won't need people to do as much of is coding.
+So if if you wanted one of those jobs where we basically slide pizzas under the door and you give us code out the other end, we're not going to need as much of that.
+We'll need some, but not as much because I can do a lot of that stuff.
+However, instead of doing this stuff, we're going to be needing more of this kind of stuff like architecture and strategy.
+This is where we are actually using our higher order thinking capabilities,
+our creative aspects, and using the kinds of things that we do best
+and using this as a tool to help us free us up to do these kinds of things.
+We're going to see more attacks than we've ever seen before.
+They're going to be more complex than we've ever seen before.
+All of this is going to mean the attack surface and the weight that we have to lift is going to keep getting heavier.
+And we don't have infinite number of people to do that.
+So how can we leverage the people that we do have?
+And by the way, essentially the statistics tell us for every three people working in
+cybersecurity, there is another open job that needs to be filled.
+So is AI taking all of that away?
+No, that's a lot of jobs that still need to be filled.
+So how can we get the most out of these people?
+How can we make it so that they can lift this huge weight?
+Well, if you know about levers and fulcrum, the fulcrum here is a AI.
+This is the thing that's going to be the force multiplier
+that allows us to be able to deal with this because the bad guys aren't sitting still.
+AI means they're going to be attacking in ways that they haven't before.
+That means we're going to have to be smarter.
+We're going to have to deploy better and smarter tools and use AI as a force multiplier just in order to keep up.
+That's not even getting ahead.
+That's just keeping our heads above water as best we can.
+So clearly, we still need a human in the loop with a lot of these decisions, strategy, architecture and things of that sort.
+And, as we move forward, remember at the beginning the video,
+I talked about each one of these eras of technology and how it
+took away certain jobs, but then it also created opportunities for other jobs.
+Well, what are the critical skills?
+The critical skill, in my opinion, moving into this era of AI.
+It's critical thinking.
+It's the ability to determine what is real, what isn't.
+What things should happen, what things shouldn't.
+The AI is going to suggest a lot of things, and some of them will be great
+ideas and some of them will be pretty crazy, at the end of the day,
+we need the humans in the loop to do the ultimate thinking.
+And when you think about a company like IBM, our motto since the beginning has been this.
+So it's pretty appropriate that what goes around comes back around,
+and the skills we need moving into the next generation are the skills that we've always needed.
+We just need a more now than ever.
